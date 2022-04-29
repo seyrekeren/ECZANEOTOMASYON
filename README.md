@@ -1,2 +1,4 @@
-# ECZANEOTOMASYON
-Eczane otomasyon sistemi
+# PharmacyManangement
+# PharmacyManangement
+# PharmacyManangement
+# PharmacyManangement
