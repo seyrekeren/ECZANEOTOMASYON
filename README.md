@@ -1,0 +1,2 @@
+# ECZANEOTOMASYON
+Eczane otomasyon sistemi
